@@ -2,7 +2,7 @@
 
 ## Curso de Power BI, oferecido pelo SENAI - São José dos Campos
 
-Este repositório contém o material desenvolvido durante o curso de Power BI oferecido pelo SENAI - São José dos Campos. Durante o curso, foram apresentadas algumas dashboards desenvolvidas em colaboração com o professor Luis Eduardo.
+Este repositório contém o material desenvolvido durante o curso de Power BI oferecido pelo SENAI - São José dos Campos. Durante o curso, foram apresentadas algumas dashboards desenvolvidas em colaboração com o professor Luiz Fernando.
 
 ## Tópicos abordados no curso:
 
