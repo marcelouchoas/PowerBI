@@ -18,13 +18,13 @@ Este repositório contém o material desenvolvido durante o curso de Power BI of
 
 ## Primeira aula 
 
-Para acessar clique [aqui](https://github.com/marcelouchoas/PowerBI/tree/main/Aula%202).
+Para acessar clique [aqui](https://github.com/marcelouchoas/PowerBI/tree/main/Aula%201).
 
 Nesta aula, utilizamos a planilha "Loja" para criar a dashboard apresentada. Foram empregadas as funções medida, como o SUMX, que permite a soma de dados de várias tabelas. Além disso, a função SUM foi utilizada para somar dados de uma tabela. Também foi empregada a função DISTINCTCOUNT, que realiza a contagem do conteúdo das linhas da tabela.
 
 ## Segunda aula 
 
-Para acessar clique [aqui](https://github.com/marcelouchoas/PowerBI/tree/main/Aula%201).
+Para acessar clique [aqui](https://github.com/marcelouchoas/PowerBI/tree/main/Aula%202).
 
 
 NNesta aula, a gente criou uma nova tabela pra montar a estrutura de cálculos necessária e aplicar umas funções legais nas tabelas.
