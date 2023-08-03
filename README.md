@@ -53,3 +53,7 @@ Também, adicionei uma caixa de texto personalizada e dei um nome bem legal para
 Além disso, usei o Power Query para transformar os dados de texto em dados numéricos. Adicionei uma coluna com informações sobre a idade dos funcionários, que ficou na aba "Coluna", "Data e Hora", e depois "Data e Idade".
 
 Para garantir uma análise mais eficiente, mudei o código para o tipo texto, conforme recomendado para relações de dados adequadas.
+
+## Quarta aula 
+
+Para acessar clique [aqui](https://github.com/marcelouchoas/PowerBI/tree/main/Aula%204).
