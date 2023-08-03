@@ -46,9 +46,9 @@ Inicialmente, tive um problema com o mapa, pois não mostrava nenhuma informaç�
 
 Também criei uma árvore hierárquica para uma análise mais detalhada. Utilizei o gasto salarial total e expliquei por estado e, em seguida, por gênero.
 
-Ah, a matriz foi outra visualização interessante que fiz! Organizei os setores e os cargos nas linhas e coloquei o total de funcionários, a média salarial e o gasto salarial nos valores. Ficou bem informativa!
+A matriz foi outra visualização interessante que fiz! Organizei os setores e os cargos nas linhas e coloquei o total de funcionários, a média salarial e o gasto salarial nos valores. Ficou bem informativa!
 
-E claro, adicionei uma caixa de texto personalizada e dei um nome bem legal para o dashboard, deixando-o com um toque mais personalizado.
+Também, adicionei uma caixa de texto personalizada e dei um nome bem legal para o dashboard, deixando-o com um toque mais personalizado.
 
 Além disso, usei o Power Query para transformar os dados de texto em dados numéricos. Adicionei uma coluna com informações sobre a idade dos funcionários, que ficou na aba "Coluna", "Data e Hora", e depois "Data e Idade".
 
