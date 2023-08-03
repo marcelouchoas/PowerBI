@@ -36,7 +36,7 @@ E pra dar aquele toque final, adicionamos um botão maneiro tipo indicador que d
 
 ## Terceira aula 
 
-Para acessar clique [aqui](https://github.com/marcelouchoas/PowerBI/tree/main/Aula%202).
+Para acessar clique [aqui](https://github.com/marcelouchoas/PowerBI/tree/main/Aula%203).
 
 Nsta aula, criei um gráfico de rosca para uma representação visual dos dados. Decidi colocar o gênero dos funcionários na legenda e o total de funcionários de cada gênero nos valores.
 
