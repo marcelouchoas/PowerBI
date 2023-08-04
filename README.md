@@ -67,5 +67,11 @@ Também foi empregado funções e fórmulas do Power Query e do DAX para realiza
 
 ## Quinta aula 
 
-Para acessar clique [aqui](https://github.com/marcelouchoas/PowerBI/tree/main/Aula%204).
+Para acessar clique [aqui](https://github.com/marcelouchoas/PowerBI/tree/main/Aula%205).
+
+Nesse projeto do Power BI, aproveitei diversas funcionalidades e técnicas para criar um painel detalhado de análise de vendas. Iniciei com o carregamento de dados, ajustando categorias e relacionamentos entre tabelas. Utilizei fórmulas DAX para criar medidas complexas, como cálculos de descontos, metas de vendedores e previsões de receita.
+
+A estruturação das páginas foi feita de forma intuitiva, com menus e indicadores que facilitaram a navegação. Empreguei ícones e caixas de texto para tornar a experiência do usuário mais amigável. Além disso, criei visualizações relevantes, como tabelas detalhadas e gráficos diversos, incluindo treemaps, áreas empilhadas e colunas empilhadas, que apresentaram insights importantes sobre vendas, funcionários, clientes e estoque.
+
+Ao longo desse processo, trabalhei com recursos de transformação de dados, relacionamentos de tabelas e apliquei fórmulas específicas do DAX para atingir resultados precisos. A combinação dessas ferramentas permitiu a construção de um painel dinâmico, oferecendo informações valiosas e de fácil interpretação sobre o desempenho das vendas na loja.
 
