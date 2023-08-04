@@ -57,3 +57,10 @@ Para garantir uma análise mais eficiente, mudei o código para o tipo texto, co
 ## Quarta aula 
 
 Para acessar clique [aqui](https://github.com/marcelouchoas/PowerBI/tree/main/Aula%204).
+
+Foi criado visualizações significativas, como uma matriz que mostrava cargos, profissionais, departamentos e salários. Também inseri cartões para destacar o total de salários, adiantamentos, IRPF, INSS, FGTS e valores a pagar. Usei gráficos de colunas empilhadas para visualizar dados de maneira mais clara.
+
+Para segmentar os dados, criei opções de seleção, como segmentações por Estado, Cargo e Profissional. Isso permitiu uma análise mais detalhada e personalizada dos dados.
+
+Também foi empregado funções e fórmulas do Power Query e do DAX para realizar cálculos complexos, como as medidas de desconto. Também utilizei recursos como relacionamentos entre tabelas para criar uma estrutura coesa para análises.
+
