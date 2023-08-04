@@ -64,3 +64,8 @@ Para segmentar os dados, criei opções de seleção, como segmentações por Es
 
 Também foi empregado funções e fórmulas do Power Query e do DAX para realizar cálculos complexos, como as medidas de desconto. Também utilizei recursos como relacionamentos entre tabelas para criar uma estrutura coesa para análises.
 
+
+## Quinta aula 
+
+Para acessar clique [aqui](https://github.com/marcelouchoas/PowerBI/tree/main/Aula%204).
+
