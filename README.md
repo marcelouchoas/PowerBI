@@ -18,14 +18,17 @@ Este repositório contém o material desenvolvido durante o curso de Power BI of
 
 ## Primeira aula 
 
+![Dashboard Primeira Aula](https://github.com/marcelouchoas/PowerBI/blob/main/Dashboard/Aula%201.png)
 Para acessar clique [aqui](https://github.com/marcelouchoas/PowerBI/tree/main/Aula%201).
 
 Nesta aula, utilizamos a planilha "Loja" para criar a dashboard apresentada. Foram empregadas as funções medida, como o SUMX, que permite a soma de dados de várias tabelas. Além disso, a função SUM foi utilizada para somar dados de uma tabela. Também foi empregada a função DISTINCTCOUNT, que realiza a contagem do conteúdo das linhas da tabela.
 
+
+
 ## Segunda aula 
 
+![Dashboard Segunda Aula](https://github.com/marcelouchoas/PowerBI/blob/main/Dashboard/Aula%202.png)
 Para acessar clique [aqui](https://github.com/marcelouchoas/PowerBI/tree/main/Aula%202).
-
 
 Nesta aula, a gente criou uma nova tabela pra montar a estrutura de cálculos necessária e aplicar umas funções legais nas tabelas.
 
@@ -36,6 +39,7 @@ E pra dar aquele toque final, adicionamos um botão maneiro tipo indicador que d
 
 ## Terceira aula 
 
+![Dashboard Terceira Aula](https://github.com/marcelouchoas/PowerBI/blob/main/Dashboard/Aula%203.png)
 Para acessar clique [aqui](https://github.com/marcelouchoas/PowerBI/tree/main/Aula%203).
 
 Nesta aula, criei um gráfico de rosca para uma representação visual dos dados. Decidi colocar o gênero dos funcionários na legenda e o total de funcionários de cada gênero nos valores.
@@ -56,6 +60,7 @@ Para garantir uma análise mais eficiente, mudei o código para o tipo texto, co
 
 ## Quarta aula 
 
+![Dashboard Quarta Aula](https://github.com/marcelouchoas/PowerBI/blob/main/Dashboard/Aula%204.png)
 Para acessar clique [aqui](https://github.com/marcelouchoas/PowerBI/tree/main/Aula%204).
 
 Foi criado visualizações significativas, como uma matriz que mostrava cargos, profissionais, departamentos e salários. Também inseri cartões para destacar o total de salários, adiantamentos, IRPF, INSS, FGTS e valores a pagar. Usei gráficos de colunas empilhadas para visualizar dados de maneira mais clara.
@@ -67,6 +72,7 @@ Também foi empregado funções e fórmulas do Power Query e do DAX para realiza
 
 ## Quinta aula 
 
+![Dashboard Quinta Aula](https://github.com/marcelouchoas/PowerBI/blob/main/Dashboard/Aula%205%201.png)
 Para acessar clique [aqui](https://github.com/marcelouchoas/PowerBI/tree/main/Aula%205).
 
 Nesse projeto do Power BI, aproveitei diversas funcionalidades e técnicas para criar um painel detalhado de análise de vendas. Iniciei com o carregamento de dados, ajustando categorias e relacionamentos entre tabelas. Utilizei fórmulas DAX para criar medidas complexas, como cálculos de descontos, metas de vendedores e previsões de receita.
@@ -74,4 +80,13 @@ Nesse projeto do Power BI, aproveitei diversas funcionalidades e técnicas para 
 A estruturação das páginas foi feita de forma intuitiva, com menus e indicadores que facilitaram a navegação. Empreguei ícones e caixas de texto para tornar a experiência do usuário mais amigável. Além disso, criei visualizações relevantes, como tabelas detalhadas e gráficos diversos, incluindo treemaps, áreas empilhadas e colunas empilhadas, que apresentaram insights importantes sobre vendas, funcionários, clientes e estoque.
 
 Ao longo desse processo, trabalhei com recursos de transformação de dados, relacionamentos de tabelas e apliquei fórmulas específicas do DAX para atingir resultados precisos. A combinação dessas ferramentas permitiu a construção de um painel dinâmico, oferecendo informações valiosas e de fácil interpretação sobre o desempenho das vendas na loja.
+
+| Dashboard 1         | Dashboard 2         |
+|------------------|------------------|
+| ![Produtos](https://github.com/marcelouchoas/PowerBI/blob/main/Dashboard/Aula%205%202.png)) | ![Gráficos](https://github.com/marcelouchoas/PowerBI/blob/main/Dashboard/Aula%205%203.png) |
+
+| Dashboard 3         | Dashboard 4         |
+|------------------|------------------|
+| ![Graficos](https://github.com/marcelouchoas/PowerBI/blob/main/Dashboard/Aula%205%204.png) | ![Produtos](https://github.com/marcelouchoas/PowerBI/blob/main/Dashboard/Aula%205%205.png) |
+
 
